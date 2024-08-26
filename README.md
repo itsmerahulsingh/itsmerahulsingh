@@ -1,7 +1,11 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VIYNkS-Hsk6R7hChTDyUq3Q_D2-IsR-JvQ&s)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img  align="right" alt="Coding" width="400" src=" https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU" />
+<img
+  src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; height:350px;width:1000px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmerahulsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itsmerahulsingh" /> </p>
 
